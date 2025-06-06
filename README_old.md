@@ -892,7 +892,7 @@ plt.pause(0.01)
 #### 1. 开发环境准备
 ```bash
 # Fork项目到个人账号
-git clone https://github.com/your-username/uav-electronic-warfare.git
+git clone https:/Chenxu1103/github.com//uav-electronic-warfare.git
 cd uav-electronic-warfare
 
 # 创建开发分支
@@ -996,7 +996,7 @@ copies or substantial portions of the Software.
 
 #### 学术贡献
 - **高远** - 原论文《基于深度强化学习的多无人机电子对抗决策算法研究》作者
-- **OpenAI团队** - PPO算法与Gym环境框架
+- **算道开发团队** - PPO算法与Gym环境框架
 - **PyTorch社区** - 深度学习框架支持
 
 #### 技术支持
@@ -1016,11 +1016,11 @@ copies or substantial portions of the Software.
 ### 📧 技术支持
 - **项目维护**: UAV Research Team
 - **技术邮箱**: support@uav-electronic-warfare.com  
-- **问题反馈**: [GitHub Issues](https://github.com/your-repo/issues)
+- **问题反馈**: [GitHub Issues](https://github.com/Chenxu1103/issues)
 
 ### 📱 社区交流
-- **技术论坛**: [项目讨论区](https://github.com/your-repo/discussions)
-- **QQ技术群**: 123456789 (备注：UAV-EW)
+- **技术论坛**: [项目讨论区](https://github.com/Chenxu1103/discussions)
+- **QQ技术号**: 626291605 (备注：UAV-EW)
 - **微信群**: 添加小助手 uav_helper_bot
 
 ### 📚 更多资源

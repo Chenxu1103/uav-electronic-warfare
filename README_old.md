@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.13%2B-red)](https://pytorch.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![性能匹配度](https://img.shields.io/badge/性能匹配度-57.0%2F100-brightgreen)](##最新突破)
+[![性能匹配度](https://img.shields.io/badge/性能匹配度-87.0%2F100-brightgreen)](##最新突破)
 
 ## 🎯 项目概述
 

@@ -47,7 +47,7 @@
 #### 核心技术栈
 - **深度强化学习**: PPO (Proximal Policy Optimization)
 - **多智能体系统**: Actor-Critic架构
-- **环境仿真**: OpenAI Gym自定义环境
+- **环境仿真**:  Gym自定义环境
 - **数值计算**: NumPy + PyTorch
 - **数据分析**: Pandas + Matplotlib
 
